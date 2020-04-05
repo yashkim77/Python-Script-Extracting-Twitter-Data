@@ -14,8 +14,8 @@ access_secret = "XXXXX"
 def getTweets(username,noOfTweets):
 	"""
 	parameter: 
-		username - useranem of the twitter handle 
-		noOfTweets - number of twwets we want to extract
+		username - username of the twitter handle 
+		noOfTweets - number of tweets we want to extract
 	
 	Get the tweets and save it in csv file.
 	In current Working Directory
