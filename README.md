@@ -1,3 +1,5 @@
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light.svg)](https://deepsource.io/gh/yashkim77/Python-Script-Extracting-Twitter-Data/?ref=repository-badge)
+
 ## Script to Download Twitter Data
 
 Script 'tweetExtracter.py' use to download all the tweets or number of the tweets you want for any Twitter User.
